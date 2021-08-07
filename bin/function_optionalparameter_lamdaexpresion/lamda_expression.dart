@@ -1,0 +1,1 @@
+double persegi_panjang(double panjang, double lebar) => panjang + lebar;
